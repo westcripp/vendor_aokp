@@ -1,2 +1,2 @@
-aokp
+vendor aokp
 ====
